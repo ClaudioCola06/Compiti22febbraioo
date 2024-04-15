@@ -1,0 +1,12 @@
+Questionario:
+
+1. Qual è la tua materia preferita a scuola?
+2. Qual è il tuo hobby principale?
+3. Qual è la cosa più interessante che hai imparato di recente?
+4. Se potessi viaggiare in qualsiasi parte del mondo, dove andresti?
+5. Qual è il libro che ti ha colpito di più e perché?
+6. Cosa ti piacerebbe imparare o fare nel prossimo anno?
+7. Qual è la tua canzone preferita e perché ti piace?
+8. Se potessi incontrare una persona famosa, chi sceglieresti e cosa gli chiederesti?
+9. Cosa ti motiva di più nella vita?
+10. Qual è il tuo piatto preferito e hai mai provato a cucinarlo?
